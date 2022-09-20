@@ -44,6 +44,7 @@ class DiaryEntry
     private
         def words
             return @contents.split(" ")
+        
     end
 
     
